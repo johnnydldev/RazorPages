@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|c:\\users\\johnnydl\\documents\\proyectos c#\\razor pages\\contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|c:\\users\\johnnydl\\documents\\proyectos c#\\razor pages\\contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|c:\\users\\johnnydl\\documents\\proyectos c#\\razor pages\\contosouniversity\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|solutionrelative:pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|c:\\users\\johnnydl\\documents\\proyectos c#\\razor pages\\contosouniversity\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|solutionrelative:pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|c:\\users\\johnnydl\\documents\\proyectos c#\\razor pages\\contosouniversity\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|solutionrelative:pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|c:\\users\\johnnydl\\documents\\proyectos c#\\razor pages\\contosouniversity\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|solutionrelative:pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|c:\\users\\johnnydl\\documents\\proyectos c#\\razor pages\\contosouniversity\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0F762B-B97A-4E9C-8ED8-ABC6F3EA99FA}|ContosoUniversity.csproj|solutionrelative:pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T04:29:59.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T04:22:30.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T04:19:10.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T04:11:44.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T04:05:23.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:02:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JohnnyDL\\Documents\\Proyectos C#\\Razor Pages\\ContosoUniversity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:00:28.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
